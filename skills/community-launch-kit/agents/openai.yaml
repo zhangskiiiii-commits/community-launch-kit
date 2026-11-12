@@ -1,0 +1,4 @@
+interface:
+  display_name: "社区推广助手"
+  short_description: "查找真实需求帖与社区规则，准备适配文案和配图，整理可核实的手动发布位置"
+  default_prompt: "使用 $community-launch-kit 根据我的产品资料，查找 Reddit 和 Facebook 的 10 条真实需求帖，核对规则，准备文案、配图与手动发布清单。"

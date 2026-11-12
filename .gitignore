@@ -1,0 +1,9 @@
+runs/
+outputs/
+work/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
